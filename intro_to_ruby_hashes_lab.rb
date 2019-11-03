@@ -30,3 +30,4 @@ def update_counting_hash(hash, key)
     return hash
   end
 end
+
